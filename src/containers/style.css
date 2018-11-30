@@ -1,0 +1,14 @@
+.weatherWidget {
+  display: flex;
+  justify-content: center;
+  background: #e4e4e4;
+  padding: 45px 0;
+}
+
+.permissionBtn {
+  padding: 20px;
+  background: #447098;
+  color: white;
+  margin: 30px 20px;
+  font-size: 14px;
+}
